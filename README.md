@@ -1,4 +1,4 @@
-#Movie-Catalog Application
+# Movie-Catalog Application
 
 Welcome to the movie-catalog wiki!
 
