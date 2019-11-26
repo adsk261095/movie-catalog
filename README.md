@@ -1,3 +1,5 @@
+#Movie-Catalog Application
+
 Welcome to the movie-catalog wiki!
 
 In this project, I have used micro-service architecture to develop the application.
@@ -81,4 +83,4 @@ localhost:8083/user/{userId}
 `frequency: 30`
 
 `}`
-# movie-catalog
+
